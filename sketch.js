@@ -4,7 +4,7 @@ img = loadImage("Images/jungleHome1.jpg");
 }
 
 function setup() {
-createCanvas(480,480);
+createCanvas(1366,768);
 image(img,0,0);
 }
 
