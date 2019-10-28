@@ -6,6 +6,12 @@ body {
   padding: 0px 20px;
 }
 
+body {
+  background-image: url(images/Desert_red.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 h1 {
   color: red;
   padding: 20px 0px 10px 0px;
