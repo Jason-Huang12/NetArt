@@ -16,8 +16,4 @@ color: #02075D;
 text-decoration: none;
 }
 
-video {
-    position: absolute;
-    left: 50%;
-    transform:translateX(-100%);
-}
+<iframe marginheight="200">
